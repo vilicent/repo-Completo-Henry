@@ -51,6 +51,7 @@ typings/
 
 # Optional npm cache directory
 .npm
+.Code-workspace
 
 # Optional eslint cache
 .eslintcache
